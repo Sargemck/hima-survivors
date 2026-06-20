@@ -2,3 +2,4 @@ node_modules/
 _check.js
 *.zip
 .DS_Store
+.claude/
